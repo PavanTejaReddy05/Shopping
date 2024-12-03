@@ -1,0 +1,20 @@
+// data.d.ts
+export interface FashionData {
+    title: string;
+    image1: string;
+    image2: string;
+    image3: string;
+    image4: string;
+    image5: string;
+    image6: string;
+    price1: string;
+    price2: string;
+    price3: string;
+    price4: string;
+    price5: string;
+    price6: string;
+  }
+  
+  export const Gents: FashionData;
+  export const Ladies: FashionData;
+  

@@ -1,0 +1,25 @@
+
+{
+    "title": "Gents Fashion",
+    "items": [
+      { "image": "assets/Men/1.jpg", "price": "559 INR" },
+      { "image": "assets/Men/2.jpg", "price": "459 INR" },
+      { "image": "assets/Men/3.jpg", "price": "659 INR" },
+      { "image": "assets/Men/4.jpg", "price": "759 INR" },
+      { "image": "assets/Men/5.jpg", "price": "859 INR" },
+      { "image": "assets/Men/6.jpg", "price": "959 INR" }
+    ]
+  }
+  
+{
+    "title": "Ladies Fashion",
+    "items": [
+      { "image": "assets/Woman/1.jpg", "price": "1559 INR" },
+      { "image": "assets/Woman/2.jpg", "price": "1459 INR" },
+      { "image": "assets/Woman/3.jpg", "price": "1659 INR" },
+      { "image": "assets/Woman/4.jpg", "price": "1759 INR" },
+      { "image": "assets/Woman/5.jpg", "price": "1859 INR" },
+      { "image": "assets/Woman/6.jpg", "price": "1959 INR" }
+    ]
+  }
+  
